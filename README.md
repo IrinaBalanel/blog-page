@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is HTML-based which aims to create a blog post page with a structured layout and styling. The page includes a header, main content area, sidebar, and footer. Additionally, the page features a comment form below the article and a menu with links. This site uses real information about travel experience along with the images form personal library.
+This project is HTML-based which aims to create a blog post page with a structured layout and styling. The page includes a header, main content area, sidebar, and footer. Additionally, the page features a comment form below the article and a menu with links. This site uses real information about travel experience along with the images from the personal library.
 
 ## Features
 - Header: Displays the blog site name.
